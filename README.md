@@ -1,5 +1,5 @@
 - 👋 welcome, I’m @isaacannan
-- 👀 Interested in Participating in existing data-related projects to collaborate with other analysts, connect with like-minded individuals, ask questions, and learn from experienced contributors.
+- 👀 Interested in Participating in existing data-related projects, collaborate with other analysts, connect with like-minded individuals, ask questions, and learn from experienced      contributors.
 - 🌱 Currently learning Python, SQL & Power BI.
 - 💞️ Looking to collaborate on projects where data can make a difference. Let's collaborate!
 - 📫 Reach me: 3annani@gmail.com
